@@ -1,0 +1,14 @@
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\bin\Debug\net8.0\Inventory Management System v3.exe
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\bin\Debug\net8.0\Inventory Management System v3.deps.json
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\bin\Debug\net8.0\Inventory Management System v3.runtimeconfig.json
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\bin\Debug\net8.0\Inventory Management System v3.dll
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\bin\Debug\net8.0\Inventory Management System v3.pdb
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\obj\Debug\net8.0\Inventory Management System v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\obj\Debug\net8.0\Inventory Management System v3.AssemblyInfoInputs.cache
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\obj\Debug\net8.0\Inventory Management System v3.AssemblyInfo.cs
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\obj\Debug\net8.0\Inventory Management System v3.csproj.CoreCompileInputs.cache
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\obj\Debug\net8.0\Inventory Management System v3.dll
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\obj\Debug\net8.0\refint\Inventory Management System v3.dll
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\obj\Debug\net8.0\Inventory Management System v3.pdb
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\obj\Debug\net8.0\Inventory Management System v3.genruntimeconfig.cache
+C:\Users\Codeline user\Desktop\Projects\Inventory Management System v3\obj\Debug\net8.0\ref\Inventory Management System v3.dll
